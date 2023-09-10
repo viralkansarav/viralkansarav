@@ -10,7 +10,7 @@ I'm a passionate MERN stack developer with a knack for creating web applications
 
 🌟 **Featured Projects:**
 
-1. Weather API APP - ([Link to GitHub Repository](https://github.com/viralkansarav/weather-application))- 
+1. Weather API APP - ([Link to GitHub Repository](https://github.com/viralkansarav/weather-application)) - 
 The Weather Application is a React-based web application that allows users to retrieve weather information for any city in the world.
 
 2. Amazon Clone - ([Link to GitHub Repository](https://github.com/viralkansarav/amazon-clone)) - Highlight the stack used and the problem the project solves.
