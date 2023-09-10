@@ -18,7 +18,6 @@ The Weather Application is a React-based web application that allows users to re
 
 🌐 **Connect with Me:**
 - LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/veeralkansara)
-- Portfolio: [My Portfolio Link](Comming-SOON)
 
 📫 **Let's Collaborate:**
 - Interested in working together or contributing to my projects? Feel free to reach out!
